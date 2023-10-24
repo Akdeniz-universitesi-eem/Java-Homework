@@ -1,3 +1,3 @@
 # Java-Homework
 
-Kendi oluşturduğum methodlar src klasörleri içerisindeki Homework_tolls içinde bulunuyor.
+Kendi oluşturduğum methodlar src klasörleri içerisindeki Homework_tools içinde bulunuyor.
